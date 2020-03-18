@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790590161294",
+    "firebase_url": "https://pushnotificationapp-2bd68.firebaseio.com",
+    "project_id": "pushnotificationapp-2bd68",
+    "storage_bucket": "pushnotificationapp-2bd68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790590161294:android:a1126237ccab353484a4df",
+        "android_client_info": {
+          "package_name": "esenteq.project.pushnotificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790590161294-8g47o2ec4q2ol1ajt0ec1oqpr1jgt4fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "esenteq.project.pushnotificationapp",
+            "certificate_hash": "4cf89d85562d2ec9bb5a1cc7910767f89176d4f9"
+          }
+        },
+        {
+          "client_id": "790590161294-6ntlme15gjvb0vtn5omsti9aa28bl8t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_W33aycy-DULVHGN9kA7YGHMQFRDXGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790590161294-6ntlme15gjvb0vtn5omsti9aa28bl8t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
